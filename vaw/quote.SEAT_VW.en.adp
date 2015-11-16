@@ -322,7 +322,7 @@ set nota_string "Nota:"
 	<td>&nbsp;</td>
     </tr>
     <tr valign=top> 
-      <td class=rowtitle width=20%><%= [lang::message::lookup &locale intranet-invoices.Note]  %></td>
+      <td class=rowtitle width="20%"><%= [lang::message::lookup &locale intranet-invoices.Note]  %></td>
       <td colspan=2><pre><div class=address><%=$cost_note %></div></pre> </td>
     </tr>
   </table>

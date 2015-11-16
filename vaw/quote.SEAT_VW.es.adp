@@ -318,7 +318,7 @@ set nota_string "Nota:"
 	<td>&nbsp;</td>
     </tr>
     <tr valign=top> 
-      <td class=rowtitle width=20%><%=$nota_string %></td>
+      <td class=rowtitle width="20%"><%=$nota_string %></td>
       <td colspan=2><pre><div class=address><%=$cost_note %></div></pre> </td>
     </tr>
   </table>
