@@ -52,7 +52,7 @@
 <table width="95%" border="0" cellspacing="1" cellpadding="1">
   <tr>
     <td colspan=2>
-      <p><b><%= $doc_title %> <%= [join $related_project_nrs ", "] %> <b></p>
+      <p><b><%= $doc_title %> <%= $invoice_nr %> <b></p>
     </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@
 <table border="0" cellspacing="1" cellpadding="1">
 <tr>
 	<td class="rowtitle"><%= [lang::message::lookup $locale intranet-invoices.Document_hash_simbol "Document Nr."] %>:&nbsp;</td>
-	<td class="address"><%=$invoice_nr %></td>
+	<td class="address"><%= [join $related_project_nrs ", "] %></td>
 </tr>	
 <tr>
 	<td class="rowtitle">
