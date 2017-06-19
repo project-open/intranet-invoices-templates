@@ -127,7 +127,7 @@
 
 <table border="0" cellspacing="1" cellpadding="1">
 <tr>
-	<td class="rowtitle"><%= [lang::message::lookup $locale intranet-invoices.Document_hash_simbol "Document Nr."] %>:&nbsp;</td>
+	<td class="rowtitle"><%= [lang::message::lookup $locale intranet-invoices.Project_number_hash_simbol "Project Nr."] %>:&nbsp;</td>
 	<td class="address"><%= [join $related_project_nrs ", "] %></td>
 </tr>	
 <tr>
