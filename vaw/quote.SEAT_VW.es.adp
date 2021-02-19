@@ -346,7 +346,7 @@ set nota_string "Nota:"
 	  <td class=cominfo>+34 934 788 255</td>
 	</tr>
 	<tr><td class=cominfo colspan=2>vaw@vaw.es</td></tr>
-	<tr><td class=cominfo colspan=2>http://www.vaw.es/</td></tr>
+	<tr><td class=cominfo colspan=2>https://www.vaw.es/</td></tr>
 	</table>
 </td>
 <td class=cominfo>

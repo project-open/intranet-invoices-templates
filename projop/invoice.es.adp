@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Factura</title>
-<link rel='stylesheet' href='http://www.project-open.com/css/invoice.css' type='text/css'>
+<link rel='stylesheet' href='https://www.project-open.com/css/invoice.css' type='text/css'>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
@@ -12,7 +12,7 @@
       <P><b><font size="5">FACTURA</font></b></P>
     </td>
     <td align="right"> 
-      <img src="http://www.project-open.com/images/logos/project_open.38.10frame.gif"><br>
+      <img src="https://www.project-open.com/images/logos/project_open.38.10frame.gif"><br>
     </td>
   </tr>
 </table>

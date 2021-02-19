@@ -154,7 +154,7 @@ Ceramica
   <b>NIF: B62304514</b><br>
   Registro Mercantil de Barcelona - Tomo 32.738, Folio 156, Hoja B-215.478, Inscripci&oacute;n
   1&ordf;.<br>
-  http://www.ceramicaclusters.com </span></font></div>
+  https://www.ceramicaclusters.com </span></font></div>
 
 <div id="Layer6" style="position:absolute; left:416px; top:880px; width:329px; height:69px; z-index:4"><span class="small"><b><font face="Arial">Ceramicaclusters
   - Castellón</font></b></span><font face="Arial, Helvetica, sans-serif"><span class="small"><br>

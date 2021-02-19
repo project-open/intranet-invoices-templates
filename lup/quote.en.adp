@@ -217,7 +217,7 @@ Die angegebenen Durchlaufzeiten gelten ab Datum der schriftlichen Auftragserteil
 per R&uuml;ckfax oder E-Mail. Der Auftrag wird von einem qualifizierten 
 Übersetzer bearbeitet, der in seine Muttersprache übersetzt und anschließend, 
 falls nicht explizit anders gewünscht, von uns separat überprüft. Es gelten 
-unsere AGBs (<a href="http://www.leinhaeuser.de/index.php?nav=102">http://www.leinhaeuser.de/index.php?nav=102</a>).</font></p>
+unsere AGBs (<a href="https://www.leinhaeuser.de/index.php?nav=102">https://www.leinhaeuser.de/index.php?nav=102</a>).</font></p>
 
 </body>
 </html>

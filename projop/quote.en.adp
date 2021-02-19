@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Quote</title>
-<link rel='stylesheet' href='http://www.project-open.com/css/invoice.css' type='text/css'>
+<link rel='stylesheet' href='https://www.project-open.com/css/invoice.css' type='text/css'>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
@@ -9,7 +9,7 @@
 <table border="0" cellspacing="1" cellpadding="1" width="100%">
   <tr> 
     <td>
-      <img src="http://www.project-open.com/images/logos/project_open.38.10frame.gif">
+      <img src="https://www.project-open.com/images/logos/project_open.38.10frame.gif">
     </td>
     <td align="right"><!-- <p><font size="6">
 <span class=brandsec>]</span><span class=brandfirst>project-open</span><span class=brandsec>[</span>

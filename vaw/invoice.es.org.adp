@@ -168,7 +168,7 @@ Verlag Automobil Wirtschaft S.L. | Alcalde Ferrer i Mon&eacute;s, 23 | 08820 Bar
 	  <td><font color="#606060" size="-4">+34 934 788 255</font></td>
 	</tr>
 	<tr><td colspan=2><font color="#606060" size="-4">vaw@vaw.es</font></td></tr>
-	<tr><td colspan=2><font color="#606060" size="-4">http://www.vaw.es/</font></td></tr>
+	<tr><td colspan=2><font color="#606060" size="-4">https://www.vaw.es/</font></td></tr>
 	</table>
 </td>
 <td>
